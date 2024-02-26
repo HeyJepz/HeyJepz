@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, C#, Python, JS**
 
-- 📫 How to reach me **jeffreydapar@gmail.com**
+- 📫 Reach out to me in: **jeffreydapar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
