@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java, C#, Python, JS**
+- 💬 Ask me about **Java, C#, Python, & JS**
 
 - 📫 Reach out to me in: **jeffreydapar@gmail.com**
 
