@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeffrey Dapar</h1>
+<h1 align="center">Hi 👋, Its Jepz/h1>
 <h3 align="center">I am a web developer and a video editor!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyjepz&label=Profile%20views&color=0e75b6&style=flat" alt="heyjepz" /> </p>
